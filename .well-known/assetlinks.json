@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.casualphoenix.shopping",
+      "sha256_cert_fingerprints": [
+        "59:CB:69:EB:7F:33:24:96:08:E7:10:B3:B7:24:79:D0:B8:FF:FD:86:BF:12:AB:2D:C8:E7:CE:79:8A:AC:41:DA"
+      ]
+    }
+  }
+]
